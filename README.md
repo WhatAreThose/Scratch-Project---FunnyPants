@@ -1,4 +1,6 @@
-# Scratch-Project---FunnyPants
-A Scratch Project Really Funny I hope U Love This
-`OW!`
-# LOL
+Scratch Project - FunnyPants A Funny Scratch Project
+
+>[ScreenShot Of The Code] 
+
+
+[ScreenShot Of The Code]: https://i.stack.imgur.com/4dtl4.png
